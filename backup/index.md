@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://xzyji.github.io/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **JI, Xiang Zhong Yu (xzyji, [姬祥中昱](https://xzyji.github.io/file/蔡汉霖简历.pdf))**.
+Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
 I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
