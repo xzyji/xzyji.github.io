@@ -14,7 +14,7 @@ Outstanding Report on Social Practice, Northeastern University, Academic Year 20
 
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Member
+- Sep 2022 - Now：IEEE Member
 - Sep 2019 - Sep 2020：Director of the Office of Student Union, Faculty of Robot Science and Engineering, Northeastern University
 - Sep 2018 - Sep 2022：Study Committee Member of Robot Engineering Class 1802, Northeastern University
 
