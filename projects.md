@@ -8,32 +8,42 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### [Multidisciplinary Design Optimization for R-Jet business jets]
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/rjet2.png">
+<img src="/images/rjet1.png">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### [Research on the adaptive control method of quadrotor based on neural network]
 
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/bp1.png">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### [Early Detection of Aifoil Stall Using Machine Learning]
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/stall1.png">
 </center>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+#### [Boeing 777-300ER Gust Load Stress Analysis]
 
 <center>
-<img src="/images/iot-manager.png">
+<img src="/images/777.png">
+</center>
+<br>
+
+<br>
+
+#### [Mazda Aerodynamic Optimization Using Q-criteria]
+
+<center>
+<img src="/images/CFD1.png">
 </center>
 <br>
 
@@ -41,18 +51,14 @@ P.S., click the hyperlink title to access the source.<br>
 
 ---
 
-# Open-source Projects
+# Ongoing Projects
 
 <br>
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
+#### [Flight Performance Analysis with data-driven Mission Parameterization]
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+<center>
+<img src="/images/ongo1.png">
+</center>
+<br>
 
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**

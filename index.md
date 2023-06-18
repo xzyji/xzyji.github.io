@@ -6,21 +6,25 @@ layout: page
 
 <img src="https://xzyji.github.io/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
 
-Here is **JI, Xiang Zhong Yu (xzyji, [姬祥中昱](https://xzyji.github.io/file/蔡汉霖简历.pdf))**.
+Here is **JI, Xiang Zhong Yu (xzyji, [姬祥中昱](https://xzyji.github.io/file/姬祥中昱简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+2018.09 - 2022.06, B.Eng in **Robot Engineering** at Northeastern University, Shenyang City, China. Supervised by [Dr. Jingyu Ru](http://faculty.neu.edu.cn/rujingyu/)
+
+2022.09 - Now, MSc Student in **Aeronautical Engineering** at The Hong Kong University of Science and Technology(HKUST), Hong Kong SAR, China. Supervised by [Prof. Larry LI](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=larry-li-larryli). Here is [my Resume](https://xzyji.github.io/file/姬祥中昱简历.pdf).
+
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+I am currently conducting research on artificial intelligence-aided solutions for problems in the aerospace field, encompassing **multidisciplinary aircraft design optimization** and **aircraft control algorithm design optimization**. This research encompasses not only aeronautics but also the broader aerospace domain, and addresses both algorithmic and mechanical aspects. I aspire to apply my skills and expertise to contribute meaningfully to China's aerospace industry.
+
+
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **<font color='red'>[News]</font> Received PhD offers from HKUST and PolyU! And I am looking for job offer from AVIC and CASIC!**
+
+- **Jun 2023：**Happy to finish my studies at HKUST early!
+- **Apr 2023：**One paper accepted to IACAME 2023, see you!
+- **Jan 2022：**Happy to receive MSc offer from HKUST.
+- **Nov 2021：**Embedded Algorithm Intern at Xiamen Xinweichuang Co.,LTD.
+- **Jun 2021：**Summer Research Intern at SIASUN Robot&Automation Co.,LTD.
