@@ -6,15 +6,15 @@ title: Awards
 
 ## Awards
 
-Northeastern University Outstanding Student Scholarship , Academic Year 2021-2022
+- Northeastern University Outstanding Student Scholarship , Academic Year 2021-2022
 
-Outstanding Individual in Social Work, Northeastern University, Academic Year 2020-2021
+- Outstanding Individual in Social Work, Northeastern University, Academic Year 2020-2021
 
-Second Prize of Challenge Cup, Northeastern University, 2020
+- Second Prize of Challenge Cup, Northeastern University, 2020
 
-Outstanding League Cadres of Northeastern University , Academic Year 2019-2020 
+- Outstanding League Cadres of Northeastern University , Academic Year 2019-2020 
 
-Outstanding Report on Social Practice, Northeastern University, Academic Year 2019-2020
+- Outstanding Report on Social Practice, Northeastern University, Academic Year 2019-2020
 
 ## Services
 
